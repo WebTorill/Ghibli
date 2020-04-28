@@ -1,4 +1,4 @@
-//TODO make the connection between the JavaScript file and the index file work
+
 //finding the root element
 const app = document.getElementById('root');
 
